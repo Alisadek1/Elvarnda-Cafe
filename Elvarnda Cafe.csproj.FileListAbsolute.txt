@@ -1,0 +1,97 @@
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Elvarnda Cafe.exe.config
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Elvarnda Cafe.exe
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Elvarnda Cafe.pdb
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda Cafe.csproj.AssemblyReference.cache
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Form1.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Properties.Resources.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda Cafe.csproj.GenerateResource.cache
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda Cafe.csproj.CoreCompileInputs.cache
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda Cafe.exe
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda Cafe.pdb
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Guna.UI2.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.frmHome.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.frmMain.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.SampleAdd.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.sampleVeiw.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.View.frmCategoryView.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Model.frmCategoryAdd.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.View.frmTableView.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Model.frmTableAdd.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.View.frmProductView.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Model.frmProductAdd.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Model.frmPOS.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Model.ucProduct.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Azure.Core.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Azure.Identity.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Buffers.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Memory.Data.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Memory.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Security.Permissions.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Text.Json.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.ValueTuple.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Azure.Core.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Azure.Identity.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Buffers.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Memory.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Memory.Data.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Security.Permissions.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Text.Json.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\System.ValueTuple.xml
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Model.SelectTable.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Model.frmBillList.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Model.frmCheckOut.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda_Cafe.Reports.rptBill.resources
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda Cafe.exe.licenses
+C:\Users\bedo\source\repos\Elvarnda Cafe\Elvarnda Cafe\obj\Debug\Elvarnda.E6013F47.Up2Date
